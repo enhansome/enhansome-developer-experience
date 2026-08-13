@@ -1,0 +1,254 @@
+{
+  "items": [
+    {
+      "description": "Books, articles, communities and",
+      "items": [],
+      "title": "📚 Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧰 Tools"
+    },
+    {
+      "description": "Good developer experience includes good API usage/design.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hoppscotch",
+          "description": "Open-source API development platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T13:13:45Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wombat",
+          "description": "Cross-platform gRPC client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-07-11T08:49:23Z",
+            "owner": "rogchap",
+            "repo": "wombat",
+            "stars": 1431
+          }
+        }
+      ],
+      "title": "API platforms"
+    },
+    {
+      "description": "Good developer experience starts at the door step.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LocalStack",
+          "description": "Local emulator of AWS services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-23T08:52:01Z",
+            "owner": "localstack",
+            "repo": "localstack",
+            "stars": 65146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyInstall",
+          "description": "One-Click Script Installation Assembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T01:50:03Z",
+            "owner": "woolflare",
+            "repo": "EasyInstall",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Local development"
+    },
+    {
+      "description": "Open-source tools that improve your DX!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MinIO",
+          "description": "S3-compatible object storage.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-24T17:54:39Z",
+            "owner": "minio",
+            "repo": "minio",
+            "stars": 61393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backstage",
+          "description": "Platform for building developer portals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:54:18Z",
+            "owner": "backstage",
+            "repo": "backstage",
+            "stars": 34136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Biome",
+          "description": "Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T21:25:02Z",
+            "owner": "biomejs",
+            "repo": "biome",
+            "stars": 25565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElasticMQ",
+          "description": "In-memory message queue with an Amazon SQS-compatible interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T00:34:04Z",
+            "owner": "softwaremill",
+            "repo": "elasticmq",
+            "stars": 2912
+          }
+        }
+      ],
+      "title": "Open-Source"
+    },
+    {
+      "description": "Happy developers need not fear the release.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "semantic-release",
+          "description": "Fully automated package publishing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T05:03:04Z",
+            "owner": "semantic-release",
+            "repo": "semantic-release",
+            "stars": 23975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "release-please",
+          "description": "Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:22:55Z",
+            "owner": "googleapis",
+            "repo": "release-please",
+            "stars": 7338
+          }
+        }
+      ],
+      "title": "Version control and releasing"
+    },
+    {
+      "description": "Version management made a breeze.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NVM",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T19:11:41Z",
+            "owner": "nvm-sh",
+            "repo": "nvm",
+            "stars": 94573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbenv",
+          "description": "Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-14T14:02:43Z",
+            "owner": "rbenv",
+            "repo": "rbenv",
+            "stars": 16731
+          }
+        }
+      ],
+      "title": "Version management"
+    },
+    {
+      "description": "More interesting resources about developer experience.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome online IDEs",
+          "description": "List of online development environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-03T22:54:05Z",
+            "owner": "styfle",
+            "repo": "awesome-online-ide",
+            "stars": 3519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome software architecture",
+          "description": "List of software architecture resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-19T14:30:02Z",
+            "owner": "simonaronsson",
+            "repo": "awesome-software-architecture",
+            "stars": 2863
+          }
+        }
+      ],
+      "title": "🔍 See also"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:25:36.158Z",
+    "original_repository": "prokopsimek/awesome-developer-experience",
+    "original_repository_sha": "0922214a735bac1703bffebd21b1441d833dbb2b",
+    "enhanced_repository": "enhansome/enhansome-developer-experience",
+    "enhanced_repository_description": null,
+    "title": "Awesome Developer Experience with stars"
+  }
+}

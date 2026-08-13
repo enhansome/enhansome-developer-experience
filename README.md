@@ -1,1 +1,226 @@
-# enhansome-developer-experience
+# Awesome Developer Experience with stars
+
+> Developer Experience (DX) describes the experience developers have while using or working on your product. A positive developer experience ensures that your developers are happy, satisfied and less likely to leave your team. Improving developer experience ranges from well written documentation, through using the right tooling, up to giving a proper consideration to how developers feel. A developer-first approach.
+
+A curated list of awesome [Developer Experience](\(https://developerexperience.io/practices/good-developer-experience\)) resources, tools and reading material.
+
+## Contents
+
+* [📚 Resources](#-resources)
+  * [Articles](#articles)
+  * [Books](#books)
+  * [Communities](#communities)
+  * [Newsletters](#newsletters)
+  * [Websites](#websites)
+* [📃 Documentation](#-documentation)
+* [🧰 Tools](#-tools)
+  * [API platforms](#api-platforms)
+  * [Automation](#automation)
+  * [Documentation](#documentation)
+  * [Knowledge management](#knowledge-management)
+  * [Local development](#local-development)
+  * [Monitoring](#monitoring)
+  * [Open-Source](#open-source)
+  * [SaaS](#saas)
+  * [Security](#security)
+  * [Terminal](#terminal)
+  * [Version control and releasing](#version-control-and-releasing)
+  * [Version management](#version-management)
+* [🔍 See also](#-see-also)
+
+## 📚 Resources
+
+Books, articles, communities and
+
+### Articles
+
+Articles about developer experience written by the community.
+
+* [Creating a developer community](https://therecursive.com/creating-a-developer-community-is-a-1-billion-bet-for-tech-companies/)
+* [DX at DAZN](https://getdx.com/podcast/developer-experience-at-dazn)
+* [KPIs and metrics for DevRel Programs](https://blog.bitergia.com/2019/05/28/kpis-and-metrics-for-devrel-programs/)
+* [Measuring Developer Relations](https://www.swyx.io/measuring-devrel)
+* [What is DX](https://developerexperience.io/practices/good-developer-experience)
+* [Why Your API Needs a Dedicated Developer Experience Team](https://nordicapis.com/why-your-api-needs-a-dedicated-developer-experience-team/)
+
+### Books
+
+Books about developer experience.
+
+* [Developer Relations](https://www.devrelbook.com/) - Intro to developer relations and how to run them inside a company.
+
+### Communities
+
+Hang out with like-minded DX people.
+
+* [LinkedIn group about Developer Experience](https://www.linkedin.com/groups/9032189/)
+* [Subreddit about Developer Experience](https://www.reddit.com/r/DeveloperExperience/)
+
+### Newsletters
+
+Newsletters writing about developer experience, for regular awesomeness.
+
+* [DevRel Weekly](https://devrelweekly.com/) - Developer relations newsletter.
+
+### Websites
+
+Websites that produce developer experience content.
+
+* [APIs you won't hate](https://apisyouwonthate.com/) - Blog about API design.
+* [daily.dev](https://daily.dev/) - News from developer-focused websites.
+* [Dev Rel Youtube Channel](https://www.youtube.com/c/DevRel) - The home of developer relations on YouTube. Here you'll find videos from the DevRelCon and DevXcon conference series, along with interviews, explainers and more.
+* [DevRel](https://devrel.co/) - Blog about developer relations.
+* [DevRel.jobs](https://www.devrel.jobs/) - Developer relations jobs.
+* [DevRelX](https://www.devrelx.com/) - Blog and newsletter about developer relations.
+
+## 📃 Documentation
+
+Documentation best practices and developer experience guidelines.
+
+* [Command Line Interface Guidelines](https://clig.dev/) - Best practices for writing CLI apps.
+* [DX Manifesto](https://developerexperiencemanifesto.org) - Basic Developer Experience principles.
+* [Heroku DX](https://www.heroku.com/dx) - Evolving the Developer Experience. Again.
+* [The documentation system](https://documentation.divio.com) - The documentation system outlined here is a simple, comprehensive and nearly universally-applicable scheme.
+* [The Twelve-Factor App](https://12factor.net/) - Recommendations for designing apps.
+
+## 🧰 Tools
+
+### API platforms
+
+Good developer experience includes good API usage/design.
+
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,023 | 🐛 784 | 🌐 TypeScript | 📅 2026-08-05 - Open-source API development platform.
+* [Wombat](https://github.com/rogchap/wombat) ⭐ 1,431 | 🐛 39 | 🌐 Svelte | 📅 2024-07-11 - Cross-platform gRPC client.
+* [Apiary](https://apiary.io/) - API design and documentation platform.
+* [Postman](https://www.postman.com/) - API building platform.
+* [Tyk](https://tyk.io/) - Cloud Native API Management for the modern stack.
+
+### Automation
+
+Awesome automation to improve your developer experience.
+
+* [Ansible](https://www.ansible.com/) - Automation platform.
+* [Chef](https://www.chef.io/) - Automation platform.
+* [Puppet](https://puppet.com/) - Infrastructure automation.
+* [Salt Project](https://saltproject.io/) - Deploy and configuration automation.
+* [WhiteSource Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) - Save time and reduce risk by automating dependency updates in software projects.
+
+### Documentation
+
+* [Bump.sh](https://bump.sh/) - Publish user-friendly API documentation portals, centralizing all API docs, whether OpenAPI or AsyncAPI.
+* [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
+* [GitBook](https://www.gitbook.com/) - GitBook helps you publish beautiful docs for your users and centralize your teams' knowledge for advanced collaboration.
+* [Mintlify](https://mintlify.com) — Modern standard for public-facing documentation. Beautiful out of the box, easy to maintain, and built to convert users.
+* [ReadMe](https://readme.com/) - Developer hubs that meet your users where they are.
+* [Redocly](https://redocly.com/) - Beautiful API documentation loved by teams and API consumers. Brought to you by the open-source extraordinaires behind Redoc.
+* [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
+* [Slate](https://github.com/slatedocs/slate) ⚠️ Archived - Slate helps you create beautiful, intelligent, responsive API documentation.
+
+### Knowledge management
+
+Awesome knowledge management systems.
+
+* [Logseq](https://logseq.com/) - Markdown-based knowledge base.
+* [Notion](https://www.notion.so/) - Team wiki-like workspace.
+* [Obsidian](https://obsidian.md/) - Markdown-based knowledge base.
+
+### Local development
+
+Good developer experience starts at the door step.
+
+* [LocalStack](https://github.com/localstack/localstack) ⚠️ Archived - Local emulator of AWS services.
+* [EasyInstall](https://github.com/woolflare/EasyInstall) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-12 - One-Click Script Installation Assembly.
+* [GitHub Copilot](https://copilot.github.com/) - AI code completion.
+* [ngrok](https://ngrok.com/) - Locally available reverse proxy.
+* [Tabnine](https://www.tabnine.com/) - Tabnine's powerful Artificial Intelligence assistant works right where you are, in the comfort of your IDE.
+* [Fine](https://www.fine.dev/) - Build Software with AI Agents.
+* [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews.
+
+### Monitoring
+
+Monitoring that makes developers happy.
+
+* [PagerDuty](https://www.pagerduty.com/) - Service monitoring and incident resolution platform.
+* [Statuspage](https://www.atlassian.com/software/statuspage) - Service status monitoring.
+
+### Open-Source
+
+Open-source tools that improve your DX!
+
+* [MinIO](https://github.com/minio/minio) ⚠️ Archived - S3-compatible object storage.
+* [Backstage](https://github.com/backstage/backstage) ⭐ 34,136 | 🐛 407 | 🌐 TypeScript | 📅 2026-08-13 - Platform for building developer portals.
+* [Biome](https://github.com/biomejs/biome) ⭐ 25,565 | 🐛 523 | 🌐 Rust | 📅 2026-08-13 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
+* [ElasticMQ](https://github.com/softwaremill/elasticmq) ⭐ 2,912 | 🐛 20 | 🌐 Scala | 📅 2026-08-12 - In-memory message queue with an Amazon SQS-compatible interface.
+* [ESLint](https://eslint.org/) - JavaScript linter.
+* [github1s](https://github1s.com/) - Open every GitHub repository in VS Code in browser.
+* [OpenFaas](https://www.openfaas.com/) - Serverless functions framework.
+* [Prettier](https://prettier.io/) - Opinionated code formatter.
+
+### SaaS
+
+Services that have direct impact on developer experience.
+
+* [AhoyConnect](https://www.ahoyconnect.com/) - Community Data Intelligence Platform.
+* [Apimatic](https://www.apimatic.io/) - API development and documentation platform.
+* [Bytebase](https://www.bytebase.com/) - Database schema and data management platform for collaboration and governance.
+* [Clerk](https://www.clerk.com/) - Authentication and user management platform for frameworks like React and Next.js.
+* [Codesee](https://www.codesee.io/) - Automatic code diagrams.
+* [deepsource](https://deepsource.io/) - Static code analysis.
+* [Fly](https://fly.io/) - Full stack apps and database hosting.
+* [Fossa](https://fossa.com/) - The most complete open source management and policy engine for enterprise security and compliance.
+* [Gitpod](https://www.gitpod.io/) - Instant IDE.
+* [LinearB](https://linearb.io/) - Software delivery intelligence.
+* [Moesif](https://www.moesif.com/) - API Analytics.
+* [Neon.tech](https://neon.tech/) - Serverless Postgres for developers.
+* [OpenMeter](http://openmeter.io/) - Simplifying usage metering for engineers.
+* [Pluralsight Flow](https://www.pluralsight.com/product/flow) - Project workflow dashboard.
+* [Retool](https://retool.com/) - Platform for building internal tools.
+* [SonarQube](https://www.sonarqube.org/) - Static code quality analysis.
+* [Theneo](https://www.theneo.io/) - API documentation tool.
+* [Zeabur](https://zeabur.com) - Deploy full stack services and databases.
+* [Watermelon](https://github.com/marketplace/watermelon-context) - Open source copilot for code review.
+
+### Security
+
+Spend less time searching for vulnerabilities, more time experiencing.
+
+* [Snyk.io](https://snyk.io) - Automatically find, prioritize and fix vulnerabilities in the open source dependencies used to build your cloud native applications.
+
+### Terminal
+
+Terminals that are awesome to use and improve productivity.
+
+* [Fig](https://fig.io/) - Auto-completion for terminal.
+* [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout.
+
+### Version control and releasing
+
+Happy developers need not fear the release.
+
+* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,975 | 🐛 404 | 🌐 JavaScript | 📅 2026-08-08 - Fully automated package publishing.
+* [release-please](https://github.com/googleapis/release-please) ⭐ 7,338 | 🐛 345 | 🌐 TypeScript | 📅 2026-08-10 - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
+* [0ver.org](https://0ver.org/) - ZeroVer: 0-based Versioning.
+* [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
+* [Calendar Versioning](https://calver.org/) - CalVer is a versioning convention based on your project's release calendar, instead of arbitrary numbers.
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Lightweight specification for commit messages.
+* [gitmoji](https://gitmoji.dev/) - Emoji-based commit message convention.
+* [Semantic Versioning](https://semver.org/) - Versioning specification.
+
+### Version management
+
+Version management made a breeze.
+
+* [NVM](https://github.com/nvm-sh/nvm) ⭐ 94,573 | 🐛 396 | 🌐 Shell | 📅 2026-07-24 - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
+* [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,731 | 🐛 15 | 🌐 Shell | 📅 2026-07-14 - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
+* [asdf](https://asdf-vm.com/) - Version management for multiple frameworks.
+
+## 🔍 See also
+
+More interesting resources about developer experience.
+
+* [Awesome online IDEs](https://github.com/styfle/awesome-online-ide) ⭐ 3,519 | 🐛 11 | 📅 2024-12-03 - List of online development environments.
+* [Awesome software architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,863 | 🐛 1 | 📅 2026-04-19 - List of software architecture resources.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
