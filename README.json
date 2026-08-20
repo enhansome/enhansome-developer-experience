@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T19:17:55Z",
+                "last_commit": "2026-08-20T16:38:46Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80059
+                "stars": 80063
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-03-23T08:52:01Z",
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65145
+                "stars": 65148
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2026-04-24T17:54:39Z",
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61387
+                "stars": 61384
               }
             },
             {
@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 236095576,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:29:57Z",
+                "last_commit": "2026-08-20T17:30:06Z",
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34185
+                "stars": 34196
               }
             },
             {
@@ -118,10 +118,10 @@
                 "archived": false,
                 "id": 671654508,
                 "language": "Rust",
-                "last_commit": "2026-08-19T20:38:51Z",
+                "last_commit": "2026-08-20T16:37:37Z",
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25599
+                "stars": 25603
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-18T14:17:54Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 23988
+                "stars": 23993
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T18:13:17Z",
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7366
+                "stars": 7371
               }
             }
           ],
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94655
+                "stars": 94664
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16733
+                "stars": 16732
               }
             }
           ],
@@ -236,7 +236,7 @@
             "last_commit": "2024-12-03T22:54:05Z",
             "owner": "styfle",
             "repo": "awesome-online-ide",
-            "stars": 3521
+            "stars": 3523
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-04-19T14:30:02Z",
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2868
+            "stars": 2871
           }
         }
       ],
@@ -259,7 +259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:03:25.858Z",
+    "last_updated": "2026-08-20T23:06:41.885Z",
     "original_repository": "prokopsimek/awesome-developer-experience",
     "original_repository_id": 339644323,
     "original_repository_sha": "0922214a735bac1703bffebd21b1441d833dbb2b",
