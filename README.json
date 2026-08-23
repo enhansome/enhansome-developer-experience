@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T05:37:14Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80076
+                "stars": 80083
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-03-23T08:52:01Z",
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65145
+                "stars": 65148
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2026-04-24T17:54:39Z",
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61380
+                "stars": 61383
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-22T15:01:29Z",
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34214
+                "stars": 34218
               }
             },
             {
@@ -118,10 +118,10 @@
                 "archived": false,
                 "id": 671654508,
                 "language": "Rust",
-                "last_commit": "2026-08-22T21:22:54Z",
+                "last_commit": "2026-08-23T22:24:53Z",
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25621
+                "stars": 25627
               }
             },
             {
@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 1951336,
                 "language": "Scala",
-                "last_commit": "2026-08-12T00:34:04Z",
+                "last_commit": "2026-08-23T00:29:54Z",
                 "owner": "softwaremill",
                 "repo": "elasticmq",
                 "stars": 2916
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T18:13:17Z",
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7380
+                "stars": 7385
               }
             }
           ],
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94690
+                "stars": 94700
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16735
+                "stars": 16734
               }
             }
           ],
@@ -236,7 +236,7 @@
             "last_commit": "2024-12-03T22:54:05Z",
             "owner": "styfle",
             "repo": "awesome-online-ide",
-            "stars": 3523
+            "stars": 3520
           }
         },
         {
@@ -259,7 +259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:01:20.917Z",
+    "last_updated": "2026-08-23T23:01:12.449Z",
     "original_repository": "prokopsimek/awesome-developer-experience",
     "original_repository_id": 339644323,
     "original_repository_sha": "0922214a735bac1703bffebd21b1441d833dbb2b",
