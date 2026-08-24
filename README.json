@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T05:37:14Z",
+                "last_commit": "2026-08-24T12:30:15Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80083
+                "stars": 80089
               }
             },
             {
@@ -39,6 +39,28 @@
           "description": "Good developer experience includes good API usage/design.",
           "node_type": "group",
           "title": "API platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slate",
+              "description": "Slate helps you create beautiful, intelligent, responsive API documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12820537,
+                "language": null,
+                "last_commit": "2026-02-01T05:54:12Z",
+                "owner": "slatedocs",
+                "repo": "slate",
+                "stars": 36036
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
         },
         {
           "children": [
@@ -91,7 +113,7 @@
                 "last_commit": "2026-04-24T17:54:39Z",
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61383
+                "stars": 61382
               }
             },
             {
@@ -103,10 +125,10 @@
                 "archived": false,
                 "id": 236095576,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T15:01:29Z",
+                "last_commit": "2026-08-24T13:16:28Z",
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34218
+                "stars": 34227
               }
             },
             {
@@ -118,10 +140,10 @@
                 "archived": false,
                 "id": 671654508,
                 "language": "Rust",
-                "last_commit": "2026-08-23T22:24:53Z",
+                "last_commit": "2026-08-24T14:09:50Z",
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25627
+                "stars": 25635
               }
             },
             {
@@ -133,7 +155,7 @@
                 "archived": false,
                 "id": 1951336,
                 "language": "Scala",
-                "last_commit": "2026-08-23T00:29:54Z",
+                "last_commit": "2026-08-24T00:41:31Z",
                 "owner": "softwaremill",
                 "repo": "elasticmq",
                 "stars": 2916
@@ -158,7 +180,7 @@
                 "last_commit": "2026-08-22T11:08:50Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 23997
+                "stars": 24000
               }
             },
             {
@@ -170,10 +192,10 @@
                 "archived": false,
                 "id": 183499464,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T18:13:17Z",
+                "last_commit": "2026-08-24T14:39:53Z",
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7385
+                "stars": 7386
               }
             }
           ],
@@ -195,7 +217,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94700
+                "stars": 94711
               }
             },
             {
@@ -210,7 +232,7 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16734
+                "stars": 16736
               }
             }
           ],
@@ -259,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:01:12.449Z",
+    "last_updated": "2026-08-24T14:42:23.570Z",
     "original_repository": "prokopsimek/awesome-developer-experience",
     "original_repository_id": 339644323,
     "original_repository_sha": "0922214a735bac1703bffebd21b1441d833dbb2b",

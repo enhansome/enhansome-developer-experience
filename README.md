@@ -89,7 +89,7 @@ Documentation best practices and developer experience guidelines.
 
 Good developer experience includes good API usage/design.
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,083 | 🐛 803 | 🌐 TypeScript | 📅 2026-08-22 - Open-source API development platform.
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,089 | 🐛 803 | 🌐 TypeScript | 📅 2026-08-24 - Open-source API development platform.
 * [Wombat](https://github.com/rogchap/wombat) ⭐ 1,431 | 🐛 39 | 🌐 Svelte | 📅 2024-07-11 - Cross-platform gRPC client.
 * [Apiary](https://apiary.io/) - API design and documentation platform.
 * [Postman](https://www.postman.com/) - API building platform.
@@ -107,6 +107,7 @@ Awesome automation to improve your developer experience.
 
 ### Documentation
 
+* [Slate](https://github.com/slatedocs/slate) ⚠️ Archived - Slate helps you create beautiful, intelligent, responsive API documentation.
 * [Bump.sh](https://bump.sh/) - Publish user-friendly API documentation portals, centralizing all API docs, whether OpenAPI or AsyncAPI.
 * [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
 * [GitBook](https://www.gitbook.com/) - GitBook helps you publish beautiful docs for your users and centralize your teams' knowledge for advanced collaboration.
@@ -114,7 +115,6 @@ Awesome automation to improve your developer experience.
 * [ReadMe](https://readme.com/) - Developer hubs that meet your users where they are.
 * [Redocly](https://redocly.com/) - Beautiful API documentation loved by teams and API consumers. Brought to you by the open-source extraordinaires behind Redoc.
 * [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
-* [Slate](https://github.com/slatedocs/slate) ⚠️ Archived - Slate helps you create beautiful, intelligent, responsive API documentation.
 
 ### Knowledge management
 
@@ -148,9 +148,9 @@ Monitoring that makes developers happy.
 Open-source tools that improve your DX!
 
 * [MinIO](https://github.com/minio/minio) ⚠️ Archived - S3-compatible object storage.
-* [Backstage](https://github.com/backstage/backstage) ⭐ 34,218 | 🐛 403 | 🌐 TypeScript | 📅 2026-08-22 - Platform for building developer portals.
-* [Biome](https://github.com/biomejs/biome) ⭐ 25,627 | 🐛 532 | 🌐 Rust | 📅 2026-08-23 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
-* [ElasticMQ](https://github.com/softwaremill/elasticmq) ⭐ 2,916 | 🐛 21 | 🌐 Scala | 📅 2026-08-23 - In-memory message queue with an Amazon SQS-compatible interface.
+* [Backstage](https://github.com/backstage/backstage) ⭐ 34,227 | 🐛 408 | 🌐 TypeScript | 📅 2026-08-24 - Platform for building developer portals.
+* [Biome](https://github.com/biomejs/biome) ⭐ 25,635 | 🐛 523 | 🌐 Rust | 📅 2026-08-24 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
+* [ElasticMQ](https://github.com/softwaremill/elasticmq) ⭐ 2,916 | 🐛 21 | 🌐 Scala | 📅 2026-08-24 - In-memory message queue with an Amazon SQS-compatible interface.
 * [ESLint](https://eslint.org/) - JavaScript linter.
 * [github1s](https://github1s.com/) - Open every GitHub repository in VS Code in browser.
 * [OpenFaas](https://www.openfaas.com/) - Serverless functions framework.
@@ -197,8 +197,8 @@ Terminals that are awesome to use and improve productivity.
 
 Happy developers need not fear the release.
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,997 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 - Fully automated package publishing.
-* [release-please](https://github.com/googleapis/release-please) ⭐ 7,385 | 🐛 350 | 🌐 TypeScript | 📅 2026-08-18 - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
+* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,000 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 - Fully automated package publishing.
+* [release-please](https://github.com/googleapis/release-please) ⭐ 7,386 | 🐛 350 | 🌐 TypeScript | 📅 2026-08-24 - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
 * [0ver.org](https://0ver.org/) - ZeroVer: 0-based Versioning.
 * [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 * [Calendar Versioning](https://calver.org/) - CalVer is a versioning convention based on your project's release calendar, instead of arbitrary numbers.
@@ -210,8 +210,8 @@ Happy developers need not fear the release.
 
 Version management made a breeze.
 
-* [NVM](https://github.com/nvm-sh/nvm) ⭐ 94,700 | 🐛 395 | 🌐 Shell | 📅 2026-08-18 - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
-* [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,734 | 🐛 15 | 🌐 Shell | 📅 2026-07-14 - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
+* [NVM](https://github.com/nvm-sh/nvm) ⭐ 94,711 | 🐛 393 | 🌐 Shell | 📅 2026-08-18 - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
+* [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,736 | 🐛 15 | 🌐 Shell | 📅 2026-07-14 - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 * [asdf](https://asdf-vm.com/) - Version management for multiple frameworks.
 
 ## 🔍 See also
@@ -223,4 +223,4 @@ More interesting resources about developer experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
