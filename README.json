@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:31:15Z",
+                "last_commit": "2026-08-27T11:29:09Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80101
+                "stars": 80103
               }
             },
             {
@@ -76,7 +76,7 @@
                 "last_commit": "2026-03-23T08:52:01Z",
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65145
+                "stars": 65143
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-26T22:04:04Z",
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34264
+                "stars": 34267
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-27T02:54:07Z",
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25653
+                "stars": 25656
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-24T21:20:29Z",
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7402
+                "stars": 7405
               }
             }
           ],
@@ -217,7 +217,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94756
+                "stars": 94761
               }
             },
             {
@@ -281,9 +281,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:03:52.334Z",
-    "original_repository": "prokopsimek/awesome-developer-experience",
-    "original_repository_id": 339644323,
+    "last_updated": "2026-08-27T11:33:27.240Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 339644323,
+      "language": null,
+      "last_commit": "2025-05-07T19:37:54Z",
+      "owner": "prokopsimek",
+      "repo": "awesome-developer-experience",
+      "stars": 80
+    },
     "original_repository_sha": "0922214a735bac1703bffebd21b1441d833dbb2b",
     "enhanced_repository": "enhansome/enhansome-developer-experience",
     "enhanced_repository_description": null,
