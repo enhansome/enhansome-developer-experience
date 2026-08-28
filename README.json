@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:29:09Z",
+                "last_commit": "2026-08-27T18:30:52Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80103
-              }
+                "stars": 80106
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "rogchap",
                 "repo": "wombat",
                 "stars": 1431
-              }
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             }
           ],
           "description": "Good developer experience includes good API usage/design.",
@@ -55,7 +57,8 @@
                 "owner": "slatedocs",
                 "repo": "slate",
                 "stars": 36037
-              }
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             }
           ],
           "description": null,
@@ -77,7 +80,8 @@
                 "owner": "localstack",
                 "repo": "localstack",
                 "stars": 65143
-              }
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "woolflare",
                 "repo": "EasyInstall",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             }
           ],
           "description": "Good developer experience starts at the door step.",
@@ -113,8 +118,9 @@
                 "last_commit": "2026-04-24T17:54:39Z",
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61373
-              }
+                "stars": 61375
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             },
             {
               "node_type": "item",
@@ -125,11 +131,12 @@
                 "archived": false,
                 "id": 236095576,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T22:04:04Z",
+                "last_commit": "2026-08-27T21:18:12Z",
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34267
-              }
+                "stars": 34273
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             },
             {
               "node_type": "item",
@@ -140,11 +147,12 @@
                 "archived": false,
                 "id": 671654508,
                 "language": "Rust",
-                "last_commit": "2026-08-27T02:54:07Z",
+                "last_commit": "2026-08-27T20:49:38Z",
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25656
-              }
+                "stars": 25663
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             },
             {
               "node_type": "item",
@@ -158,8 +166,9 @@
                 "last_commit": "2026-08-26T00:21:36Z",
                 "owner": "softwaremill",
                 "repo": "elasticmq",
-                "stars": 2918
-              }
+                "stars": 2919
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             }
           ],
           "description": "Open-source tools that improve your DX!",
@@ -180,8 +189,9 @@
                 "last_commit": "2026-08-26T21:54:52Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24007
-              }
+                "stars": 24010
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             },
             {
               "node_type": "item",
@@ -195,8 +205,9 @@
                 "last_commit": "2026-08-24T21:20:29Z",
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7405
-              }
+                "stars": 7406
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             }
           ],
           "description": "Happy developers need not fear the release.",
@@ -217,8 +228,9 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94761
-              }
+                "stars": 94767
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             },
             {
               "node_type": "item",
@@ -232,8 +244,9 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16732
-              }
+                "stars": 16733
+              },
+              "first_seen": "2026-08-28T06:22:21.922Z"
             }
           ],
           "description": "Version management made a breeze.",
@@ -259,7 +272,8 @@
             "owner": "styfle",
             "repo": "awesome-online-ide",
             "stars": 3522
-          }
+          },
+          "first_seen": "2026-08-28T06:22:21.922Z"
         },
         {
           "node_type": "item",
@@ -274,14 +288,15 @@
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
             "stars": 2874
-          }
+          },
+          "first_seen": "2026-08-28T06:22:21.922Z"
         }
       ],
       "title": "🔍 See also"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:27.240Z",
+    "last_updated": "2026-08-28T06:22:21.922Z",
     "original_repository_info": {
       "archived": false,
       "id": 339644323,
