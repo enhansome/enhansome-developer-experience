@@ -89,7 +89,7 @@ Documentation best practices and developer experience guidelines.
 
 Good developer experience includes good API usage/design.
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,114 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-28 - Open-source API development platform.
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,113 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-28 - Open-source API development platform.
 * [Wombat](https://github.com/rogchap/wombat) ⭐ 1,431 | 🐛 39 | 🌐 Svelte | 📅 2024-07-11 - Cross-platform gRPC client.
 * [Apiary](https://apiary.io/) - API design and documentation platform.
 * [Postman](https://www.postman.com/) - API building platform.
@@ -149,7 +149,7 @@ Open-source tools that improve your DX!
 
 * [MinIO](https://github.com/minio/minio) ⚠️ Archived - S3-compatible object storage.
 * [Backstage](https://github.com/backstage/backstage) ⭐ 34,274 | 🐛 433 | 🌐 TypeScript | 📅 2026-08-28 - Platform for building developer portals.
-* [Biome](https://github.com/biomejs/biome) ⭐ 25,665 | 🐛 517 | 🌐 Rust | 📅 2026-08-28 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
+* [Biome](https://github.com/biomejs/biome) ⭐ 25,665 | 🐛 518 | 🌐 Rust | 📅 2026-08-28 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
 * [ElasticMQ](https://github.com/softwaremill/elasticmq) ⭐ 2,919 | 🐛 21 | 🌐 Scala | 📅 2026-08-26 - In-memory message queue with an Amazon SQS-compatible interface.
 * [ESLint](https://eslint.org/) - JavaScript linter.
 * [github1s](https://github1s.com/) - Open every GitHub repository in VS Code in browser.
@@ -210,7 +210,7 @@ Happy developers need not fear the release.
 
 Version management made a breeze.
 
-* [NVM](https://github.com/nvm-sh/nvm) ⭐ 94,770 | 🐛 396 | 🌐 Shell | 📅 2026-08-18 - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
+* [NVM](https://github.com/nvm-sh/nvm) ⭐ 94,771 | 🐛 396 | 🌐 Shell | 📅 2026-08-18 - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
 * [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,732 | 🐛 15 | 🌐 Shell | 📅 2026-07-14 - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 * [asdf](https://asdf-vm.com/) - Version management for multiple frameworks.
 

@@ -21,7 +21,7 @@
                 "open_issues": 804,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80114,
+                "stars": 80113,
                 "topics": [
                   "api",
                   "api-client",
@@ -249,7 +249,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:23:30Z",
-                "open_issues": 517,
+                "open_issues": 518,
                 "owner": "biomejs",
                 "repo": "biome",
                 "stars": 25665,
@@ -381,7 +381,7 @@
                 "open_issues": 396,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94770,
+                "stars": 94771,
                 "topics": [
                   "bash",
                   "install",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:54:32.884Z",
+    "last_updated": "2026-08-29T05:01:05.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
