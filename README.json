@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T14:30:09Z",
-                "open_issues": 804,
+                "open_issues": 806,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80113,
+                "stars": 80117,
                 "topics": [
                   "api",
                   "api-client",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65142,
+                "stars": 65144,
                 "topics": [
                   "aws",
                   "cloud",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61375,
+                "stars": 61374,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:22:09Z",
-                "open_issues": 433,
+                "last_commit": "2026-08-29T17:05:14Z",
+                "open_issues": 434,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34274,
+                "stars": 34275,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T21:23:30Z",
-                "open_issues": 518,
+                "last_commit": "2026-08-29T21:52:33Z",
+                "open_issues": 514,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25665,
+                "stars": 25676,
                 "topics": [
                   "css",
                   "formatter",
@@ -315,8 +315,8 @@
                 "id": 24063576,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T10:49:00Z",
-                "open_issues": 404,
+                "last_commit": "2026-08-29T20:20:35Z",
+                "open_issues": 403,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
                 "stars": 24015,
@@ -353,7 +353,7 @@
                 "open_issues": 352,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7413,
+                "stars": 7418,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -378,10 +378,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-18T06:42:47Z",
-                "open_issues": 396,
+                "open_issues": 397,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94771,
+                "stars": 94776,
                 "topics": [
                   "bash",
                   "install",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:05.079Z",
+    "last_updated": "2026-08-30T00:45:37.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
