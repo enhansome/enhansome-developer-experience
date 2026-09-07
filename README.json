@@ -17,11 +17,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T14:40:50Z",
+                "last_commit": "2026-09-06T05:35:55Z",
                 "open_issues": 812,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80210,
+                "stars": 80226,
                 "topics": [
                   "api",
                   "api-client",
@@ -97,7 +97,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36032,
+                "stars": 36033,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65130,
+                "stars": 65125,
                 "topics": [
                   "aws",
                   "cloud",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61372,
+                "stars": 61373,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T16:33:08Z",
-                "open_issues": 558,
+                "last_commit": "2026-09-06T07:07:32Z",
+                "open_issues": 569,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34341,
+                "stars": 34351,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T23:13:59Z",
-                "open_issues": 474,
+                "last_commit": "2026-09-06T23:16:04Z",
+                "open_issues": 481,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25716,
+                "stars": 25721,
                 "topics": [
                   "css",
                   "formatter",
@@ -319,7 +319,7 @@
                 "open_issues": 405,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24024,
+                "stars": 24027,
                 "topics": [
                   "automation",
                   "changelog",
@@ -353,7 +353,7 @@
                 "open_issues": 352,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7453,
+                "stars": 7454,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -378,10 +378,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-04T22:40:55Z",
-                "open_issues": 389,
+                "open_issues": 390,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94912,
+                "stars": 95006,
                 "topics": [
                   "bash",
                   "install",
@@ -481,7 +481,7 @@
             "open_issues": 2,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2877,
+            "stars": 2878,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:14:13.851Z",
+    "last_updated": "2026-09-07T00:22:33.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
