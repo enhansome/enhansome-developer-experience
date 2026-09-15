@@ -17,11 +17,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T10:52:08Z",
+                "last_commit": "2026-09-14T06:26:28Z",
                 "open_issues": 822,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80302,
+                "stars": 80306,
                 "topics": [
                   "api",
                   "api-client",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61366,
+                "stars": 61369,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T15:31:39Z",
-                "open_issues": 416,
+                "last_commit": "2026-09-15T00:31:06Z",
+                "open_issues": 418,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34404,
+                "stars": 34412,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T22:05:43Z",
-                "open_issues": 418,
+                "last_commit": "2026-09-14T21:55:35Z",
+                "open_issues": 401,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25773,
+                "stars": 25784,
                 "topics": [
                   "css",
                   "formatter",
@@ -283,7 +283,7 @@
                 "open_issues": 23,
                 "owner": "softwaremill",
                 "repo": "elasticmq",
-                "stars": 2933,
+                "stars": 2934,
                 "topics": [
                   "amazon-sqs",
                   "aws",
@@ -315,11 +315,11 @@
                 "id": 24063576,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:09:19Z",
-                "open_issues": 404,
+                "last_commit": "2026-09-14T20:06:10Z",
+                "open_issues": 406,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24035,
+                "stars": 24037,
                 "topics": [
                   "automation",
                   "changelog",
@@ -349,11 +349,11 @@
                 "id": 183499464,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T20:50:00Z",
-                "open_issues": 355,
+                "last_commit": "2026-09-14T18:48:58Z",
+                "open_issues": 354,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7490,
+                "stars": 7494,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -372,7 +372,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+                "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
                 "homepage": null,
                 "id": 612230,
                 "language": "Shell",
@@ -381,7 +381,7 @@
                 "open_issues": 389,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95078,
+                "stars": 95082,
                 "topics": [
                   "bash",
                   "install",
@@ -454,7 +454,7 @@
             "open_issues": 11,
             "owner": "styfle",
             "repo": "awesome-online-ide",
-            "stars": 3525,
+            "stars": 3526,
             "topics": [
               "awesome",
               "awesome-list",
@@ -481,7 +481,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2883,
+            "stars": 2885,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:28:39.219Z",
+    "last_updated": "2026-09-15T00:57:36.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
