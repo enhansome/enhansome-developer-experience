@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-16T15:34:42Z",
-                "open_issues": 825,
+                "open_issues": 823,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80323,
+                "stars": 80333,
                 "topics": [
                   "api",
                   "api-client",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61378,
+                "stars": 61367,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T20:36:02Z",
-                "open_issues": 428,
+                "last_commit": "2026-09-17T21:13:43Z",
+                "open_issues": 432,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34428,
+                "stars": 34433,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T21:18:58Z",
-                "open_issues": 391,
+                "last_commit": "2026-09-18T00:19:23Z",
+                "open_issues": 396,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25851,
+                "stars": 25816,
                 "topics": [
                   "css",
                   "formatter",
@@ -319,7 +319,7 @@
                 "open_issues": 406,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24042,
+                "stars": 24045,
                 "topics": [
                   "automation",
                   "changelog",
@@ -350,10 +350,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T18:48:58Z",
-                "open_issues": 354,
+                "open_issues": 356,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7501,
+                "stars": 7509,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -381,7 +381,7 @@
                 "open_issues": 390,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95097,
+                "stars": 95104,
                 "topics": [
                   "bash",
                   "install",
@@ -416,7 +416,7 @@
                 "open_issues": 17,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16733,
+                "stars": 16735,
                 "topics": [
                   "bash",
                   "ruby",
@@ -454,7 +454,7 @@
             "open_issues": 11,
             "owner": "styfle",
             "repo": "awesome-online-ide",
-            "stars": 3528,
+            "stars": 3530,
             "topics": [
               "awesome",
               "awesome-list",
@@ -481,7 +481,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2886,
+            "stars": 2887,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:54:18.338Z",
+    "last_updated": "2026-09-18T00:48:38.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
