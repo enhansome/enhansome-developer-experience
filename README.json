@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-16T15:34:42Z",
-                "open_issues": 827,
+                "open_issues": 826,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80347,
+                "stars": 80364,
                 "topics": [
                   "api",
                   "api-client",
@@ -97,7 +97,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36032,
+                "stars": 36030,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65126,
+                "stars": 65125,
                 "topics": [
                   "aws",
                   "cloud",
@@ -155,7 +155,7 @@
                 "id": 801398314,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-09-16T03:29:02Z",
+                "last_commit": "2026-09-19T03:16:46Z",
                 "open_issues": 0,
                 "owner": "woolflare",
                 "repo": "EasyInstall",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61362,
+                "stars": 61357,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:12:32Z",
+                "last_commit": "2026-09-19T19:12:23Z",
                 "open_issues": 434,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34445,
+                "stars": 34452,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:09:45Z",
-                "open_issues": 401,
+                "last_commit": "2026-09-20T00:21:17Z",
+                "open_issues": 402,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25824,
+                "stars": 25827,
                 "topics": [
                   "css",
                   "formatter",
@@ -279,7 +279,7 @@
                 "id": 1951336,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T01:00:42Z",
+                "last_commit": "2026-09-19T00:47:25Z",
                 "open_issues": 23,
                 "owner": "softwaremill",
                 "repo": "elasticmq",
@@ -315,11 +315,11 @@
                 "id": 24063576,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T02:28:42Z",
+                "last_commit": "2026-09-19T10:08:15Z",
                 "open_issues": 406,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24047,
+                "stars": 24050,
                 "topics": [
                   "automation",
                   "changelog",
@@ -353,7 +353,7 @@
                 "open_issues": 356,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7517,
+                "stars": 7521,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -381,7 +381,7 @@
                 "open_issues": 391,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95120,
+                "stars": 95131,
                 "topics": [
                   "bash",
                   "install",
@@ -416,7 +416,7 @@
                 "open_issues": 17,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16736,
+                "stars": 16735,
                 "topics": [
                   "bash",
                   "ruby",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:41:26.745Z",
+    "last_updated": "2026-09-20T00:25:59.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
