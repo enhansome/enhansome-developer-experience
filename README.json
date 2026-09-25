@@ -17,11 +17,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T20:33:46Z",
-                "open_issues": 828,
+                "last_commit": "2026-09-24T10:08:52Z",
+                "open_issues": 830,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80482,
+                "stars": 80502,
                 "topics": [
                   "api",
                   "api-client",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65124,
+                "stars": 65127,
                 "topics": [
                   "aws",
                   "cloud",
@@ -155,7 +155,7 @@
                 "id": 801398314,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-09-23T03:28:39Z",
+                "last_commit": "2026-09-24T03:18:22Z",
                 "open_issues": 0,
                 "owner": "woolflare",
                 "repo": "EasyInstall",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61355,
+                "stars": 61353,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T15:24:10Z",
-                "open_issues": 439,
+                "last_commit": "2026-09-24T21:22:24Z",
+                "open_issues": 444,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34481,
+                "stars": 34494,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T23:31:59Z",
-                "open_issues": 385,
+                "last_commit": "2026-09-24T21:53:54Z",
+                "open_issues": 396,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25851,
+                "stars": 25854,
                 "topics": [
                   "css",
                   "formatter",
@@ -319,7 +319,7 @@
                 "open_issues": 403,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24066,
+                "stars": 24069,
                 "topics": [
                   "automation",
                   "changelog",
@@ -353,7 +353,7 @@
                 "open_issues": 359,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7543,
+                "stars": 7551,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -381,7 +381,7 @@
                 "open_issues": 391,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95170,
+                "stars": 95175,
                 "topics": [
                   "bash",
                   "install",
@@ -481,7 +481,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2894,
+            "stars": 2895,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:54:41.310Z",
+    "last_updated": "2026-09-25T00:54:17.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
@@ -506,7 +506,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-05-07T19:37:54Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "prokopsimek",
       "repo": "awesome-developer-experience",
       "stars": 79,
