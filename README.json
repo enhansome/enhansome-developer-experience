@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-26T17:45:31Z",
-                "open_issues": 835,
+                "open_issues": 837,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80521,
+                "stars": 80526,
                 "topics": [
                   "api",
                   "api-client",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65125,
+                "stars": 65126,
                 "topics": [
                   "aws",
                   "cloud",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61349,
+                "stars": 61350,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -218,10 +218,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T04:30:58Z",
-                "open_issues": 441,
+                "open_issues": 445,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34505,
+                "stars": 34512,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T00:03:46Z",
-                "open_issues": 401,
+                "last_commit": "2026-09-28T00:24:54Z",
+                "open_issues": 407,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25863,
+                "stars": 25865,
                 "topics": [
                   "css",
                   "formatter",
@@ -283,7 +283,7 @@
                 "open_issues": 24,
                 "owner": "softwaremill",
                 "repo": "elasticmq",
-                "stars": 2939,
+                "stars": 2940,
                 "topics": [
                   "amazon-sqs",
                   "aws",
@@ -319,7 +319,7 @@
                 "open_issues": 403,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24068,
+                "stars": 24067,
                 "topics": [
                   "automation",
                   "changelog",
@@ -350,10 +350,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T18:48:58Z",
-                "open_issues": 363,
+                "open_issues": 364,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7554,
+                "stars": 7558,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -378,10 +378,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-21T02:24:04Z",
-                "open_issues": 393,
+                "open_issues": 391,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95189,
+                "stars": 95199,
                 "topics": [
                   "bash",
                   "install",
@@ -416,7 +416,7 @@
                 "open_issues": 17,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16736,
+                "stars": 16735,
                 "topics": [
                   "bash",
                   "ruby",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:56:24.097Z",
+    "last_updated": "2026-09-28T01:13:47.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
