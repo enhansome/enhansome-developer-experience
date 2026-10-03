@@ -89,7 +89,7 @@ Documentation best practices and developer experience guidelines.
 
 Good developer experience includes good API usage/design.
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,561 | 🐛 844 | 🌐 TypeScript | 📅 2026-09-30 - Open-source API development platform.
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,562 | 🐛 844 | 🌐 TypeScript | 📅 2026-09-30 - Open-source API development platform.
 * [Wombat](https://github.com/rogchap/wombat) ⭐ 1,431 | 🐛 39 | 🌐 Svelte | 📅 2024-07-11 - Cross-platform gRPC client.
 * [Apiary](https://apiary.io/) - API design and documentation platform.
 * [Postman](https://www.postman.com/) - API building platform.
@@ -148,8 +148,8 @@ Monitoring that makes developers happy.
 Open-source tools that improve your DX!
 
 * [MinIO](https://github.com/minio/minio) ⚠️ Archived - S3-compatible object storage.
-* [Backstage](https://github.com/backstage/backstage) ⭐ 34,547 | 🐛 423 | 🌐 TypeScript | 📅 2026-10-02 - Platform for building developer portals.
-* [Biome](https://github.com/biomejs/biome) ⭐ 25,886 | 🐛 406 | 🌐 Rust | 📅 2026-10-02 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
+* [Backstage](https://github.com/backstage/backstage) ⭐ 34,548 | 🐛 420 | 🌐 TypeScript | 📅 2026-10-02 - Platform for building developer portals.
+* [Biome](https://github.com/biomejs/biome) ⭐ 25,888 | 🐛 406 | 🌐 Rust | 📅 2026-10-02 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
 * [ElasticMQ](https://github.com/softwaremill/elasticmq) ⭐ 2,942 | 🐛 25 | 🌐 Scala | 📅 2026-10-02 - In-memory message queue with an Amazon SQS-compatible interface.
 * [ESLint](https://eslint.org/) - JavaScript linter.
 * [github1s](https://github1s.com/) - Open every GitHub repository in VS Code in browser.
@@ -198,7 +198,7 @@ Terminals that are awesome to use and improve productivity.
 Happy developers need not fear the release.
 
 * [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,082 | 🐛 403 | 🌐 JavaScript | 📅 2026-10-02 - Fully automated package publishing.
-* [release-please](https://github.com/googleapis/release-please) ⭐ 7,581 | 🐛 367 | 🌐 TypeScript | 📅 2026-10-02 - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
+* [release-please](https://github.com/googleapis/release-please) ⭐ 7,582 | 🐛 367 | 🌐 TypeScript | 📅 2026-10-02 - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
 * [0ver.org](https://0ver.org/) - ZeroVer: 0-based Versioning.
 * [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 * [Calendar Versioning](https://calver.org/) - CalVer is a versioning convention based on your project's release calendar, instead of arbitrary numbers.
@@ -218,8 +218,8 @@ Version management made a breeze.
 
 More interesting resources about developer experience.
 
-* [Awesome online IDEs](https://github.com/styfle/awesome-online-ide) ⭐ 3,532 | 🐛 11 | 📅 2024-12-03 - List of online development environments.
-* [Awesome software architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,900 | 🐛 3 | 📅 2026-04-19 - List of software architecture resources.
+* [Awesome online IDEs](https://github.com/styfle/awesome-online-ide) ⭐ 3,533 | 🐛 11 | 📅 2024-12-03 - List of online development environments.
+* [Awesome software architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,901 | 🐛 3 | 📅 2026-04-19 - List of software architecture resources.
 
 ***
 

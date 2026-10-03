@@ -21,7 +21,7 @@
                 "open_issues": 844,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80561,
+                "stars": 80562,
                 "topics": [
                   "api",
                   "api-client",
@@ -218,10 +218,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T20:40:21Z",
-                "open_issues": 423,
+                "open_issues": 420,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34547,
+                "stars": 34548,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -252,7 +252,7 @@
                 "open_issues": 406,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25886,
+                "stars": 25888,
                 "topics": [
                   "css",
                   "formatter",
@@ -353,7 +353,7 @@
                 "open_issues": 367,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7581,
+                "stars": 7582,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -454,7 +454,7 @@
             "open_issues": 11,
             "owner": "styfle",
             "repo": "awesome-online-ide",
-            "stars": 3532,
+            "stars": 3533,
             "topics": [
               "awesome",
               "awesome-list",
@@ -481,7 +481,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2900,
+            "stars": 2901,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:28:42.679Z",
+    "last_updated": "2026-10-03T04:40:01.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
