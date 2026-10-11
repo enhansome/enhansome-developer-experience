@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-07T05:46:25Z",
-                "open_issues": 850,
+                "open_issues": 847,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80589,
+                "stars": 80591,
                 "topics": [
                   "api",
                   "api-client",
@@ -97,7 +97,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36019,
+                "stars": 36018,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65130,
+                "stars": 65134,
                 "topics": [
                   "aws",
                   "cloud",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61333,
+                "stars": 61330,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -221,7 +221,7 @@
                 "open_issues": 429,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34581,
+                "stars": 34585,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T01:21:38Z",
-                "open_issues": 441,
+                "last_commit": "2026-10-11T01:01:37Z",
+                "open_issues": 427,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25915,
+                "stars": 25924,
                 "topics": [
                   "css",
                   "formatter",
@@ -283,7 +283,7 @@
                 "open_issues": 20,
                 "owner": "softwaremill",
                 "repo": "elasticmq",
-                "stars": 2945,
+                "stars": 2946,
                 "topics": [
                   "amazon-sqs",
                   "aws",
@@ -350,7 +350,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-08T22:26:50Z",
-                "open_issues": 366,
+                "open_issues": 367,
                 "owner": "googleapis",
                 "repo": "release-please",
                 "stars": 7610,
@@ -377,11 +377,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-09T23:48:18Z",
-                "open_issues": 381,
+                "last_commit": "2026-10-10T04:34:41Z",
+                "open_issues": 380,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95290,
+                "stars": 95297,
                 "topics": [
                   "bash",
                   "install",
@@ -416,7 +416,7 @@
                 "open_issues": 17,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16735,
+                "stars": 16734,
                 "topics": [
                   "bash",
                   "ruby",
@@ -481,7 +481,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:56:03.495Z",
+    "last_updated": "2026-10-11T01:18:58.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
