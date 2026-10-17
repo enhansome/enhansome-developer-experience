@@ -89,8 +89,8 @@ Documentation best practices and developer experience guidelines.
 
 Good developer experience includes good API usage/design.
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,633 | 🐛 858 | 🌐 TypeScript | 📅 2026-10-12 - Open-source API development platform.
-* [Wombat](https://github.com/rogchap/wombat) ⭐ 1,431 | 🐛 39 | 🌐 Svelte | 📅 2024-07-11 - Cross-platform gRPC client.
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,632 | 🐛 859 | 🌐 TypeScript | 📅 2026-10-12 - Open-source API development platform.
+* [Wombat](https://github.com/rogchap/wombat) ⭐ 1,430 | 🐛 39 | 🌐 Svelte | 📅 2024-07-11 - Cross-platform gRPC client.
 * [Apiary](https://apiary.io/) - API design and documentation platform.
 * [Postman](https://www.postman.com/) - API building platform.
 * [Tyk](https://tyk.io/) - Cloud Native API Management for the modern stack.
@@ -148,9 +148,9 @@ Monitoring that makes developers happy.
 Open-source tools that improve your DX!
 
 * [MinIO](https://github.com/minio/minio) ⚠️ Archived - S3-compatible object storage.
-* [Backstage](https://github.com/backstage/backstage) ⭐ 34,625 | 🐛 469 | 🌐 TypeScript | 📅 2026-10-15 - Platform for building developer portals.
-* [Biome](https://github.com/biomejs/biome) ⭐ 25,959 | 🐛 451 | 🌐 Rust | 📅 2026-10-15 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
-* [ElasticMQ](https://github.com/softwaremill/elasticmq) ⭐ 2,948 | 🐛 20 | 🌐 Scala | 📅 2026-10-14 - In-memory message queue with an Amazon SQS-compatible interface.
+* [Backstage](https://github.com/backstage/backstage) ⭐ 34,634 | 🐛 496 | 🌐 TypeScript | 📅 2026-10-16 - Platform for building developer portals.
+* [Biome](https://github.com/biomejs/biome) ⭐ 25,959 | 🐛 451 | 🌐 Rust | 📅 2026-10-16 - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
+* [ElasticMQ](https://github.com/softwaremill/elasticmq) ⭐ 2,950 | 🐛 20 | 🌐 Scala | 📅 2026-10-14 - In-memory message queue with an Amazon SQS-compatible interface.
 * [ESLint](https://eslint.org/) - JavaScript linter.
 * [github1s](https://github1s.com/) - Open every GitHub repository in VS Code in browser.
 * [OpenFaas](https://www.openfaas.com/) - Serverless functions framework.
@@ -197,8 +197,8 @@ Terminals that are awesome to use and improve productivity.
 
 Happy developers need not fear the release.
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,111 | 🐛 407 | 🌐 JavaScript | 📅 2026-10-13 - Fully automated package publishing.
-* [release-please](https://github.com/googleapis/release-please) ⭐ 7,634 | 🐛 376 | 🌐 TypeScript | 📅 2026-10-15 - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
+* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,113 | 🐛 407 | 🌐 JavaScript | 📅 2026-10-16 - Fully automated package publishing.
+* [release-please](https://github.com/googleapis/release-please) ⭐ 7,636 | 🐛 377 | 🌐 TypeScript | 📅 2026-10-16 - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
 * [0ver.org](https://0ver.org/) - ZeroVer: 0-based Versioning.
 * [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 * [Calendar Versioning](https://calver.org/) - CalVer is a versioning convention based on your project's release calendar, instead of arbitrary numbers.
@@ -210,7 +210,7 @@ Happy developers need not fear the release.
 
 Version management made a breeze.
 
-* [NVM](https://github.com/nvm-sh/nvm) ⭐ 95,544 | 🐛 385 | 🌐 Shell | 📅 2026-10-10 - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
+* [NVM](https://github.com/nvm-sh/nvm) ⭐ 95,560 | 🐛 386 | 🌐 Shell | 📅 2026-10-10 - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
 * [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,735 | 🐛 17 | 🌐 Shell | 📅 2026-07-14 - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 * [asdf](https://asdf-vm.com/) - Version management for multiple frameworks.
 
@@ -223,4 +223,4 @@ More interesting resources about developer experience.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
