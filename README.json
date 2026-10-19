@@ -21,7 +21,7 @@
                 "open_issues": 859,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80638,
+                "stars": 80647,
                 "topics": [
                   "api",
                   "api-client",
@@ -61,7 +61,7 @@
                 "open_issues": 39,
                 "owner": "rogchap",
                 "repo": "wombat",
-                "stars": 1430,
+                "stars": 1429,
                 "topics": [
                   "go",
                   "grpc",
@@ -97,7 +97,7 @@
                 "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36013,
+                "stars": 36012,
                 "topics": [
                   "api",
                   "api-documentation",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65143,
+                "stars": 65142,
                 "topics": [
                   "aws",
                   "cloud",
@@ -187,7 +187,7 @@
                 "open_issues": 80,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61319,
+                "stars": 61316,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T20:30:53Z",
-                "open_issues": 501,
+                "last_commit": "2026-10-18T22:34:20Z",
+                "open_issues": 515,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34643,
+                "stars": 34647,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T23:46:02Z",
-                "open_issues": 454,
+                "last_commit": "2026-10-18T22:42:00Z",
+                "open_issues": 457,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 25967,
+                "stars": 25974,
                 "topics": [
                   "css",
                   "formatter",
@@ -315,11 +315,11 @@
                 "id": 24063576,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T08:26:08Z",
+                "last_commit": "2026-10-18T18:32:46Z",
                 "open_issues": 407,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24112,
+                "stars": 24113,
                 "topics": [
                   "automation",
                   "changelog",
@@ -353,7 +353,7 @@
                 "open_issues": 377,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7638,
+                "stars": 7641,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -381,7 +381,7 @@
                 "open_issues": 386,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95567,
+                "stars": 95571,
                 "topics": [
                   "bash",
                   "install",
@@ -416,7 +416,7 @@
                 "open_issues": 17,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16736,
+                "stars": 16739,
                 "topics": [
                   "bash",
                   "ruby",
@@ -451,7 +451,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-12-03T22:54:05Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "styfle",
             "repo": "awesome-online-ide",
             "stars": 3535,
@@ -481,7 +481,7 @@
             "open_issues": 4,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2908,
+            "stars": 2910,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:25:19.250Z",
+    "last_updated": "2026-10-19T00:32:27.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
