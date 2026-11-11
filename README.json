@@ -21,7 +21,7 @@
                 "open_issues": 891,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80769,
+                "stars": 80773,
                 "topics": [
                   "api",
                   "api-client",
@@ -130,7 +130,7 @@
                 "open_issues": 0,
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65122,
+                "stars": 65121,
                 "topics": [
                   "aws",
                   "cloud",
@@ -155,7 +155,7 @@
                 "id": 801398314,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-11-08T04:37:46Z",
+                "last_commit": "2026-11-10T06:01:33Z",
                 "open_issues": 0,
                 "owner": "woolflare",
                 "repo": "EasyInstall",
@@ -187,7 +187,7 @@
                 "open_issues": 78,
                 "owner": "minio",
                 "repo": "minio",
-                "stars": 61263,
+                "stars": 61261,
                 "topics": [
                   "amazon-s3",
                   "cloud",
@@ -217,11 +217,11 @@
                 "id": 236095576,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T23:40:21Z",
-                "open_issues": 601,
+                "last_commit": "2026-11-11T02:14:23Z",
+                "open_issues": 597,
                 "owner": "backstage",
                 "repo": "backstage",
-                "stars": 34810,
+                "stars": 34817,
                 "topics": [
                   "backstage",
                   "cncf",
@@ -248,11 +248,11 @@
                 "id": 671654508,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T20:12:10Z",
-                "open_issues": 520,
+                "last_commit": "2026-11-11T00:50:04Z",
+                "open_issues": 531,
                 "owner": "biomejs",
                 "repo": "biome",
-                "stars": 26075,
+                "stars": 26087,
                 "topics": [
                   "css",
                   "formatter",
@@ -283,7 +283,7 @@
                 "open_issues": 19,
                 "owner": "softwaremill",
                 "repo": "elasticmq",
-                "stars": 2955,
+                "stars": 2957,
                 "topics": [
                   "amazon-sqs",
                   "aws",
@@ -319,7 +319,7 @@
                 "open_issues": 412,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24165,
+                "stars": 24167,
                 "topics": [
                   "automation",
                   "changelog",
@@ -353,7 +353,7 @@
                 "open_issues": 388,
                 "owner": "googleapis",
                 "repo": "release-please",
-                "stars": 7750,
+                "stars": 7754,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:21.922Z"
@@ -381,7 +381,7 @@
                 "open_issues": 374,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95778,
+                "stars": 95789,
                 "topics": [
                   "bash",
                   "install",
@@ -416,7 +416,7 @@
                 "open_issues": 20,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16742,
+                "stars": 16743,
                 "topics": [
                   "bash",
                   "ruby",
@@ -481,7 +481,7 @@
             "open_issues": 7,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2927,
+            "stars": 2926,
             "topics": [
               "architecture",
               "awesome",
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:21:25.540Z",
+    "last_updated": "2026-11-11T02:17:15.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Developer Experience resources and tools.",
